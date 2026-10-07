@@ -29,32 +29,41 @@ This project demonstrates practical experience using the Spiceworks ticketing sy
 <h2>Project Walk-Through</h2>
 
 <p align="center">
-Logging into the Spiceworks ticketing system: <br/>
-<img src="https://i.imgur.com/e4pdZm9.png" height="80%" width="80%" alt="Logging into the Spiceworks Help Desk system"/>
+Opening Spiceworks ticketing system: <br/>
+<img width="100%" height="100%" alt="open tickets" src="https://github.com/user-attachments/assets/8fff271b-a4af-4bf0-b0f9-7f0b4ab65c21" />
 <br />
 <br />
-
+<p align="center">
 Creating and documenting a new support ticket: <br/>
-<img src="https://imgur.com/YWnfVn1.png" height="80%" width="80%" alt="Creating a new help desk support ticket in Spiceworks"/>
-<br />
-<br />
+<img src="https://imgur.com/YWnfVn1.png" height="100%" width="100%" alt="Creating a new help desk support ticket in Spiceworks"/>
 
+Simulated management or HR request to add new employee. Before finishing the action in the active directory, I have created the ticket for the action.  
+<br />
+<br />
+<p align="center">
 Responding to the end user and providing ticket updates: <br/>
-<img src="https://i.imgur.com/YPYS9ch.png" height="80%" width="80%" alt="Communicating with an end user through a Spiceworks ticket"/>
-<br />
-<br />
+<img width="100%" height="100%" alt="Response 2" src="https://github.com/user-attachments/assets/16b6b318-6806-4598-b4e2-84c7bd9c47f6" />
 
+Simulated resetting password for end user by using MFA through their work device or personal device. Afterwards giving a temporary password and letting them know they need to reset the password after.
+<br />
+<br />
+<p align="center">
 Documenting continued troubleshooting and support actions: <br/>
-<img src="https://imgur.com/NdoLFBz.png" height="80%" width="80%" alt="Updating a help desk ticket with troubleshooting notes"/>
-<br />
-<br />
+<img width="100%" height="100%" alt="Response 3" src="https://github.com/user-attachments/assets/e3e40877-29cd-40ea-9a7d-f0ac540f0c1c" />
 
+Simulated adding a shared drive to the end user based on access of another employee. While running into the issue that the employee will not know the type of access they need and getting the information from an outside source. Then letting them know that they will need to sign out of their device and sign back in for the changes to take affect.
+<br />
+<br />
+<p align="center">
 Recording the final resolution before closing the ticket: <br/>
-<img src="https://imgur.com/nR1Z1qF.png" height="80%" width="80%" alt="Documenting ticket resolution before closure"/>
-<br />
-<br />
+<img width="100%" height="100%" alt="closed ticket" src="https://github.com/user-attachments/assets/53e746a0-6a5a-4da1-bb94-b320ad74f31d" />
 
+Simulated a shorter ticket of brining a replacement to an end user for a laptop charger. 
+<br />
+<br />
+<p align="center">
 Reviewing completed and resolved support tickets: <br/>
-<img src="https://imgur.com/Q0Fm1QS.png" height="80%" width="80%" alt="Viewing resolved Spiceworks help desk tickets"/>
+<img width="100%" height="100%" alt="closed tickets" src="https://github.com/user-attachments/assets/df6ba77e-1ea0-4a36-bca5-bc6c60836a8f" />
+
 <br />
 </p>
